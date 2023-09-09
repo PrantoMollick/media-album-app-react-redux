@@ -1,5 +1,38 @@
 {
-  "users": [{ "id": 1, "name": "Myra" }],
+  "users": [
+    {
+      "id": 1,
+      "name": "Myra"
+    },
+    {
+      "name": "Jack Leuschke I",
+      "id": 2
+    },
+    {
+      "name": "Tabitha Kutch",
+      "id": 3
+    },
+    {
+      "name": "Ruth Hackett",
+      "id": 4
+    },
+    {
+      "name": "Curtis Volkman",
+      "id": 5
+    },
+    {
+      "name": "Gregory King",
+      "id": 6
+    },
+    {
+      "name": "Grant Hettinger",
+      "id": 7
+    },
+    {
+      "name": "Maria Shields",
+      "id": 8
+    }
+  ],
   "albums": [],
   "photos": []
 }
