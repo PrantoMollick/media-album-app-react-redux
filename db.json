@@ -33,6 +33,22 @@
       "id": 12
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": 10,
+      "title": "Hiking Trip",
+      "userId": 4
+    },
+    {
+      "userId": 4,
+      "title": "Recycled Metal Chicken",
+      "id": 11
+    },
+    {
+      "userId": 4,
+      "title": "Licensed Fresh Computer",
+      "id": 12
+    }
+  ],
   "photos": []
 }
