@@ -35,20 +35,91 @@
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 4
+      "userId": 5,
+      "title": "Bespoke Soft Pizza",
+      "id": 15
+    },
+    {
+      "userId": 8,
+      "title": "Awesome Fresh Shoes",
+      "id": 17
     },
     {
       "userId": 4,
-      "title": "Recycled Metal Chicken",
-      "id": 11
+      "title": "Licensed Metal Ball",
+      "id": 18
     },
     {
       "userId": 4,
-      "title": "Licensed Fresh Computer",
-      "id": 12
+      "title": "Handmade Wooden Sausages",
+      "id": 19
+    },
+    {
+      "userId": 4,
+      "title": "Luxurious Wooden Shirt",
+      "id": 20
+    },
+    {
+      "userId": 4,
+      "title": "Recycled Cotton Gloves",
+      "id": 21
+    },
+    {
+      "userId": 4,
+      "title": "Handcrafted Steel Table",
+      "id": 23
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/GljEUs/640/480",
+      "id": 1
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/kIgj98LUv/640/480",
+      "id": 2
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/kxCVcWr/640/480",
+      "id": 3
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/ZCCJCa/640/480",
+      "id": 4
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/OfTOHGX/640/480",
+      "id": 5
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/p1EDw9P/640/480",
+      "id": 7
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/R85spzCl/640/480",
+      "id": 8
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/eK70Mfy0/640/480",
+      "id": 9
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/WRvmB/640/480",
+      "id": 10
+    },
+    {
+      "albumId": 18,
+      "url": "https://picsum.photos/seed/4bKEV/640/480",
+      "id": 11
+    }
+  ]
 }
